@@ -1,1 +1,2 @@
 friend 1 ver
+friend 2 ver
